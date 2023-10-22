@@ -1,3 +1,5 @@
+<img src="https://github.com/RosaleeKnight/blog/assets/97799058/1c717816-966e-44f3-b400-89f2012d0d9b" alt="blog" width="640" height="320" />
+
 ![GitHub top language](https://img.shields.io/github/languages/top/RosaleeKnight/blog)
 ![GitHub language count](https://img.shields.io/github/languages/count/RosaleeKnight/blog)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
@@ -18,3 +20,6 @@ Installation not required.
 -----
 # ❔ How to use
 https://blog.rosaleeknight.repl.co/
+
+
+<img src="https://socialify.git.ci/RosaleeKnight/blog/image?font=Bitter&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto" alt="blog" width="640" height="320" />
