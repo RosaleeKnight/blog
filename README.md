@@ -20,6 +20,3 @@ Installation not required.
 -----
 # ❔ How to use
 https://blog.rosaleeknight.repl.co/
-
-
-<img src="https://socialify.git.ci/RosaleeKnight/blog/image?font=Bitter&name=1&owner=1&pattern=Floating%20Cogs&theme=Auto" alt="blog" width="640" height="320" />
